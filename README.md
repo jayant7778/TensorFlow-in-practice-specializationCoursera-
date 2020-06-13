@@ -1,1 +1,1 @@
-# Advance-Machine-Learning-HSE-Coursera-
+# Tensorflow in practice specializtion-Coursera-
